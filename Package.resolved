@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "8f4d2753f0e4778c76d5f05ad16c74f707390531",
+        "version" : "1.2.3"
+      }
+    },
+    {
+      "identity" : "swift-image-classify",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sfomuseum/swift-image-classify",
+      "state" : {
+        "revision" : "12c9f29e72de7bd02b05705427006c5ed3a8b2ac",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
